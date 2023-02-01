@@ -3,7 +3,7 @@
 $db_host = "localhost";
 $db_user = "root";
 $db_pass = "";
-$db_name = "salwa-db";
+$db_name = "movmax";
 
 try {    
     //create PDO connection 
